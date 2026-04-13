@@ -1,36 +1,48 @@
-# Global-Startup-Funding-Analysis
-This project analyzes the global startup ecosystem using Power BI, covering 66,000 startups and $990B+ in funding.
+# 🚀 Global Startup Funding Analysis
 
-📊 Key Insights
-
-Only ~10% of startups achieve successful exits, while most remain active
-
-Funding is highly concentrated, with a small number of companies capturing most capital
-
-Biotechnology leads in both funding and performance
-
-Late-stage funding dominates, indicating investor preference for proven startups
-
-North America leads globally with ~40K startups and $690B+ funding
+This project presents an end-to-end analysis of the global startup ecosystem using Power BI, covering **66,000 startups and $990B+ in total funding**. The goal is to uncover key patterns in funding, startup performance, industry trends, and regional dynamics.
 
 
-🛠️ Tools Used
+## 📊 Project Overview
 
-Power BI
+The dashboard provides insights into:
 
-DAX
+- Startup funding distribution  
+- Success, failure, and active rates  
+- Industry-wise investment trends  
+- Time-based funding patterns  
+- Country and continent-level performance  
 
-Data Modeling
 
-Data Visualization
+## 🔑 Key Insights
+
+- Only **~10% of startups achieve successful exits**, while most continue operating  
+- **Funding is highly concentrated**, with a small group capturing the majority of capital  
+- **Biotechnology leads** in both funding and performance  
+- **Late-stage funding dominates**, showing investor focus on proven startups  
+- **North America leads globally** with ~40K startups and $690B+ in funding  
+- High success rates in smaller regions are often **statistical anomalies**, while the **US and Israel show consistent performance**  
 
 
-📌 Features
+## 🛠️ Tools & Technologies
 
-KPI tracking (startups, funding, success rates)
+- Power BI  
+- DAX  
+- Data Modeling  
+- Data Visualization  
 
-Industry-wise funding analysis
 
-Time-series funding trends
-Country-level success analysis
-Row-Level Security (RLS) by continent
+## 📌 Features
+
+- KPI tracking for startups, funding, and success rates  
+- Industry-level funding and performance analysis  
+- Year-wise funding trends (first vs last funding)  
+- Country-level success rate analysis  
+- Row-Level Security (RLS) implemented by continent  
+
+
+
+## 🎯 Conclusion
+
+The analysis shows that startup success is highly concentrated, with a small percentage of companies driving the majority of value, especially in strong ecosystems and capital-intensive industries.
+
